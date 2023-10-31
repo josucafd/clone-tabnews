@@ -1,5 +1,5 @@
 function Home() {
-    return <h1>Eu te amo ♥ Maiara Reus Roque Delfino! </h1>
+    return <h1>Amo minha Família</h1>
 }
 
 export default Home;
